@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    align-items: center;
+    background-color: aqua;
+    font-family: cursive;
+}
+
+h1 {
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 30px;
+}
+
+li {
+    font-size: 25px;
+}
+
+.form-cadastro{
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.form-login {
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
